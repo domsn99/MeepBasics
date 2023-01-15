@@ -1,7 +1,7 @@
-from Libraries import *
-from Visualisation import *
-from Geometries import *
-from Sources import *
+from libraries import *
+from visualisation import *
+from geometries import *
+from sources import *
 
 sx = 16
 sy = 16
